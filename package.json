@@ -1,0 +1,24 @@
+{
+  "name": "koa-root",
+  "version": "1.0.0",
+  "description": "set root path into global environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qworld/koa-root.git"
+  },
+  "keywords": [
+    "root",
+    "path",
+    "koa"
+  ],
+  "author": "qworld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qworld/koa-root/issues"
+  },
+  "homepage": "https://github.com/qworld/koa-root#readme"
+}
